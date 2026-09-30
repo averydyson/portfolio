@@ -254,6 +254,7 @@ nav {
 }
 
 .project-category {
+    max-width: 900px;
     margin-bottom: 20px;
 
     color: var(--acid);
